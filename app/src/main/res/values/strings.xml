@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Practical4</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="pref_colour">Choose Background Colour</string>
+    <string name="pref_syncConnectionType">Select Colour</string>
+    <string name="pref_colour_default">green</string>
+    <string name="prefs">Preferences</string>
+    <string name="prefs_btn">Preferences</string>
+
+    <string-array name="ucd_module_full">
+        <item>COMP47330|COMP47330 Practical Android Programming|10|Module to teach development of android Apps</item>
+        <item>COMP41490|COMP41490 Java Technologies|5|aimed at students who would like to understand Java technologies</item>
+        <item>COMP30220|COMP30220 Distributed Systems|5|Understanding and using distributed systems with OSGi</item>
+        <item>COMP40010|COMP40010 Performance of Computer Systems|5|This module provides students with an introduction to performance engineering applied to software systems. Topics include Measurement Techniques and Tools, Probability and Queueing Models, Experimental Design and Analysis, and Simulation. The practical work will test skills that are presented in the lectures, including: design of performance tests; model generation; model simulation using a commercial simulator; analysis and presentation of results.</item>
+        <item>COMP41610|COMP41610 Cloud Computing online|7.5|Student will learn about cloud computing including a number of assignments and project</item>
+        <item>COMP41620|COMP41620 Professional Java Programming part 2|5|Student will learn professional java programming</item>
+        <item>COMP30140|COMP30140 Operating Systems 2|5|Student will learn about OS and Distributed systems</item>
+        <item>COMP40340|COMP40320 Adaptive Personalization|10|This module focuses on expanding a student\'s knowledge of the techniques used in areas such as recommender systems, reputation systems, user-generated content analysis and information retrieval. Students learn concepts, tools, and techniques individually through a series of assignments throughout the semester</item>
+        <item>COMP40725|COMP40725 Intro to Relational Databases and SQL programming|10|Students will gain experience in building a relational database using industry standard database management systems. Students will find these skills very useful in the development of any application requiring the storage and manipulation of data.</item>
+    </string-array>
+
+    <string-array name="ucd_module_array">
+        <item>COMP47330</item>
+        <item>COMP41490</item>
+        <item>COMP30220</item>
+        <item>COMP40010</item>
+        <item>COMP41610</item>
+        <item>COMP41620</item>
+        <item>COMP30140</item>
+        <item>COMP40320</item>
+        <item>COMP40725</item>
+    </string-array>
+
+    <string-array name="ucd_module_notused">
+        <item>COMP47330 Practical Android Programming</item>
+        <item>COMP41490 Java Technologies</item>
+        <item>COMP30220 Distributed Systems</item>
+        <item>COMP40010 Performance of Computer Systems</item>
+        <item>COMP41610 Cloud Computing online</item>
+        <item>COMP41620 Professional Java Programming part 2</item>
+        <item>COMP30140 Operating Systems 2</item>
+        <item>COMP40320 Adaptive Personalization</item>
+        <item>COMP40725 Intro to Relational Databases and SQL programming</item>
+    </string-array>
+
+</resources>

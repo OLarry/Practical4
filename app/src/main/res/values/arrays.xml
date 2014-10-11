@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_colour_entries">
+        <item>Colour 1</item>
+        <item>Colour 2</item>
+        <item>Colour 3</item>
+    </string-array>
+
+    <string-array name="pref_colour_values">
+        <item>Red is selected</item>
+        <item>Magenta is selected</item>
+        <item>Green is selected</item>
+    </string-array>
+</resources>
